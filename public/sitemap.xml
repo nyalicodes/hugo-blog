@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2021-02-09T22:32:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/about/</loc>
+    <lastmod>2021-02-09T22:32:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2021-02-09T22:32:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2021-02-09T22:32:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/business/</loc>
+    <lastmod>2021-02-08T16:27:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/company/</loc>
+    <lastmod>2021-02-08T16:27:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post-10/</loc>
+    <lastmod>2021-02-08T16:27:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2021-02-08T16:27:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/sale/</loc>
+    <lastmod>2021-02-08T16:27:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/fund/</loc>
+    <lastmod>2021-02-08T16:26:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/startup/</loc>
+    <lastmod>2021-02-08T16:26:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post-9/</loc>
+    <lastmod>2021-02-08T16:26:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post-8/</loc>
+    <lastmod>2021-02-08T16:26:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/entrepreneur/</loc>
+    <lastmod>2021-02-08T16:26:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/bank/</loc>
+    <lastmod>2021-02-08T16:26:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post-7/</loc>
+    <lastmod>2021-02-08T16:26:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/interview/</loc>
+    <lastmod>2021-02-08T16:26:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/stock/</loc>
+    <lastmod>2021-02-08T16:26:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/investor/</loc>
+    <lastmod>2021-02-08T16:26:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post-6/</loc>
+    <lastmod>2021-02-08T16:26:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post-5/</loc>
+    <lastmod>2021-02-08T16:26:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/financial/</loc>
+    <lastmod>2021-02-08T16:26:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post-4/</loc>
+    <lastmod>2021-02-08T16:26:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post-3/</loc>
+    <lastmod>2021-02-08T16:26:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/lighting/</loc>
+    <lastmod>2021-02-08T16:26:02+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/photography/</loc>
+    <lastmod>2021-02-08T16:26:02+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post-2/</loc>
+    <lastmod>2021-02-08T16:26:02+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/image-rating/</loc>
+    <lastmod>2021-02-08T16:03:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/welcome/</loc>
+    <lastmod>2021-02-08T16:03:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+</urlset>

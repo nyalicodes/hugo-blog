@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Financial on Hugo Blog</title>
+    <link>http://example.org/tags/financial/</link>
+    <description>Recent content in Financial on Hugo Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Feb 2021 16:26:19 +0200</lastBuildDate><atom:link href="http://example.org/tags/financial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post 4</title>
+      <link>http://example.org/posts/post-4/</link>
+      <pubDate>Mon, 08 Feb 2021 16:26:19 +0200</pubDate>
+      
+      <guid>http://example.org/posts/post-4/</guid>
+      <description>Startup opportunities in 20 easy steps. Unbelievable business idea success stories. How to cheat at business insurances and get away with it. 16 uses for business analysts. What the beatles could learn from property management companies. The 17 biggest stockchart blunders. The 6 worst business insurances in history. 18 uses for personal finances. The 16 worst famous entrepreneurs in history. 14 podcasts about entrepreneurs.
+Will famous entrepreneurs ever rule the world?</description>
+    </item>
+    
+  </channel>
+</rss>

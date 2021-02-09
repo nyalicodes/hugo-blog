@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hugo Blog</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Hugo Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Feb 2021 22:32:11 +0200</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>http://example.org/tags/about/</link>
+      <pubDate>Tue, 09 Feb 2021 22:32:11 +0200</pubDate>
+      
+      <guid>http://example.org/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>http://example.org/tags/business/</link>
+      <pubDate>Mon, 08 Feb 2021 16:27:11 +0200</pubDate>
+      
+      <guid>http://example.org/tags/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Company</title>
+      <link>http://example.org/tags/company/</link>
+      <pubDate>Mon, 08 Feb 2021 16:27:11 +0200</pubDate>
+      
+      <guid>http://example.org/tags/company/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sale</title>
+      <link>http://example.org/tags/sale/</link>
+      <pubDate>Mon, 08 Feb 2021 16:27:11 +0200</pubDate>
+      
+      <guid>http://example.org/tags/sale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fund</title>
+      <link>http://example.org/tags/fund/</link>
+      <pubDate>Mon, 08 Feb 2021 16:26:57 +0200</pubDate>
+      
+      <guid>http://example.org/tags/fund/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Startup</title>
+      <link>http://example.org/tags/startup/</link>
+      <pubDate>Mon, 08 Feb 2021 16:26:57 +0200</pubDate>
+      
+      <guid>http://example.org/tags/startup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entrepreneur</title>
+      <link>http://example.org/tags/entrepreneur/</link>
+      <pubDate>Mon, 08 Feb 2021 16:26:48 +0200</pubDate>
+      
+      <guid>http://example.org/tags/entrepreneur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bank</title>
+      <link>http://example.org/tags/bank/</link>
+      <pubDate>Mon, 08 Feb 2021 16:26:41 +0200</pubDate>
+      
+      <guid>http://example.org/tags/bank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interview</title>
+      <link>http://example.org/tags/interview/</link>
+      <pubDate>Mon, 08 Feb 2021 16:26:41 +0200</pubDate>
+      
+      <guid>http://example.org/tags/interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stock</title>
+      <link>http://example.org/tags/stock/</link>
+      <pubDate>Mon, 08 Feb 2021 16:26:41 +0200</pubDate>
+      
+      <guid>http://example.org/tags/stock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investor</title>
+      <link>http://example.org/tags/investor/</link>
+      <pubDate>Mon, 08 Feb 2021 16:26:32 +0200</pubDate>
+      
+      <guid>http://example.org/tags/investor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financial</title>
+      <link>http://example.org/tags/financial/</link>
+      <pubDate>Mon, 08 Feb 2021 16:26:19 +0200</pubDate>
+      
+      <guid>http://example.org/tags/financial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lighting</title>
+      <link>http://example.org/tags/lighting/</link>
+      <pubDate>Mon, 08 Feb 2021 16:26:02 +0200</pubDate>
+      
+      <guid>http://example.org/tags/lighting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>http://example.org/tags/photography/</link>
+      <pubDate>Mon, 08 Feb 2021 16:26:02 +0200</pubDate>
+      
+      <guid>http://example.org/tags/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Rating</title>
+      <link>http://example.org/tags/image-rating/</link>
+      <pubDate>Mon, 08 Feb 2021 16:03:25 +0200</pubDate>
+      
+      <guid>http://example.org/tags/image-rating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
