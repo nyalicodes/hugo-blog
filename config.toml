@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Hugo Blog"
+title = "My Hugo Blog"
 paginate = 3
 
 [params]
